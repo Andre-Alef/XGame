@@ -1,0 +1,12 @@
+C:\Estudos\WebAPI\XGame\XGame.Domain\bin\Debug\XGame.Domain.dll
+C:\Estudos\WebAPI\XGame\XGame.Domain\bin\Debug\XGame.Domain.pdb
+C:\Estudos\WebAPI\XGame\XGame.Domain\bin\Debug\prmToolkit.NotificationPattern.dll
+C:\Estudos\WebAPI\XGame\XGame.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Estudos\WebAPI\XGame\XGame.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Estudos\WebAPI\XGame\XGame.Domain\bin\Debug\en-US\prmToolkit.NotificationPattern.resources.dll
+C:\Estudos\WebAPI\XGame\XGame.Domain\obj\Debug\XGame.Domain.Resources.Message.resources
+C:\Estudos\WebAPI\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.GenerateResource.cache
+C:\Estudos\WebAPI\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.CopyComplete
+C:\Estudos\WebAPI\XGame\XGame.Domain\obj\Debug\XGame.Domain.dll
+C:\Estudos\WebAPI\XGame\XGame.Domain\obj\Debug\XGame.Domain.pdb
+C:\Estudos\WebAPI\XGame\XGame.Domain\obj\Debug\XGame.Domain.csprojAssemblyReference.cache
